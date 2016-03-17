@@ -839,7 +839,8 @@ html:-moz-full-screen-ancestor {
 
 .reveal .slide-background.present {
   opacity: 1;
-  visibility: visible; }
+  visibility: visible;
+}
 
 .print-pdf .reveal .slide-background {
   opacity: 1 !important;
