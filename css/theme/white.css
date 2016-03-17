@@ -92,8 +92,8 @@ body {
   width: 38%;
   margin: 0 auto;
   font-size: 2em;
-  color: darkgrey;
-  border: 5px solid darkgrey;
+  color: rgb(186, 0 ,18);
+  border: 5px solid rgb(186, 0 ,18);
 }
 
 /* Ensure certain elements are never larger than the slide itself */
